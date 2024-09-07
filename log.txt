@@ -1,0 +1,6 @@
+UserID: 1001622830 | Time: 2024-09-07 13:19:15.175225 | Command: /bgmi | Target: 20.198.78.30 | Port: 29864 | Time: 180
+Username: @FREEZERking
+Target: 20.198.78.30
+Port: 29864
+Time: 180
+
